@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405442717063",
+    "project_id": "connectex-ai",
+    "storage_bucket": "connectex-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405442717063:android:cc562cfea88bed41269f22",
+        "android_client_info": {
+          "package_name": "com.connectex_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbPrr3y36gzOo4aQIy2dYa2VQA0L8zr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
